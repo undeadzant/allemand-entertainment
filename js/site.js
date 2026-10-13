@@ -31,7 +31,7 @@ ${message}
     `.trim();
 
     const mailtoUrl =
-        `mailto:YOUR_EMAIL_ADDRESS` +
+        `mailto:inquiries@allemandent.com` +
         `?subject=${encodeURIComponent(subject)}` +
         `&body=${encodeURIComponent(body)}`;
 
